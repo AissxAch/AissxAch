@@ -17,9 +17,8 @@ Welcome to my GitHub space! I'm a **Computer Science Engineering student special
 ## 🛠️ Tech Stack
 
 - 💡 Languages: `PHP`, `Python`, `JavaScript`, `C`, `HTML`, `CSS`, `Java`
-- 🌐 Web Dev: `React`, `Node.js`, `Express`, `Laravel`, `Bootstrap`
 - 🤖 Automation: `Python Scripts`, `Web Scrapers`, `Task Bots`
-- 🔧 Tools: `Git`, `VS Code`, `Linux`, `Postman`
+- 🔧 Tools: `Git`, `VS Code`, `Linux`
 
 ---
 
@@ -33,9 +32,8 @@ Welcome to my GitHub space! I'm a **Computer Science Engineering student special
 
 ## 🌍 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
-- 📧 Email: your@email.com  
-- 🔗 Portfolio: [your-website.com](https://your-website.com)
+- 📧 Email: achouri.aissa@outlook.com 
+- 🔗 Portfolio: [your-website.com](https://aissxach.github.io/Portfolio/)
 
 ---
 
